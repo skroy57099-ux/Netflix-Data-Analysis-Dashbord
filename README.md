@@ -1,4 +1,4 @@
-# Netflix-Data-Analysis-Dashbord
+# Netflix-Data-Analysis-Dashbord(Tableau)
  This Tableau project analyzes Netflix content distribution, highlighting that Movies (68.42%) far outweigh TV Shows (31.58%). The platform's content is dominated by the TV-MA/TV-14 ratings and top genres are Documentaries and Stand-Up Comedy. The Total movies &amp; TV shows by years chart shows aggressive content expansion peaking around 2017-2018.
 This Tableau project provides a detailed, interactive analysis of the Netflix content catalog, focusing on its composition, audience, and historical trends. The dashboard is designed with a sleek, dark theme to showcase data segmentation across four main visual components.
 1. Movies & TV Shows Distribution (Pie Chart)
