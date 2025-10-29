@@ -18,6 +18,6 @@ o	The remaining top genres heavily feature International Movies and Dramas, conf
 4. Total Movies & TV Shows by Years (Area Chart)
 •	Analysis: This stacked area chart tracks the historical evolution of content added to the platform. There is minimal content before 2010, followed by a dramatic and sustained surge.
 •	Insight: Content acquisition and production saw a massive escalation starting around 014, leading to a peak of content additions in 2016-2017 before slowing down slightly around 018. This period of aggressive expansion corresponds to Netflix's major global growth and shift toward original programming, indicating a proactive strategy to dominate the streaming market by rapidly increasing content volume.
-Key Project Outcome Insights
+5. Key Project Outcome Insights.
 The integrated analysis suggests a deliberate content strategy built on three pillars: Scale, Maturity, and Globalization. Netflix has successfully leveraged a huge catalog of movies, focused its high-volume acquisitions on mature-rated content (TV-MA, TV-14), and committed heavily to international content and niche genres (Documentaries, Stand-Up Comedy) to maintain a competitive edge. The historical trend highlights that the era of peak content dumping may be over, shifting the strategic focus from volume to quality and targeted original production.
 
